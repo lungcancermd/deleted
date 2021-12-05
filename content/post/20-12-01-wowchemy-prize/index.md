@@ -1,5 +1,5 @@
 ---
-title: Technology spotlight
+title: TECHNOLOGY SPOTLIGHT
 subtitle: Targeted therapy in development
 date: 2020-12-01
 summary: "Source:
