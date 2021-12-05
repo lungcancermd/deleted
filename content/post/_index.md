@@ -1,14 +1,13 @@
 ---
-title: Latest News
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: RIP
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2021-12-05T17:09:01.776Z
 ---
+<!--StartFragment-->
+
+Former U.S. Sen. Bob Dole, died Sunday morning December 5, 2021, at the age of 98 from metastatic lung cancer.
+
+<!--EndFragment-->
