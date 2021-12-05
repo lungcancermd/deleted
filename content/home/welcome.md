@@ -1,23 +1,17 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+widget_id: ABOUT
+headless: true
+weight: 10
+title: Wisdom Imparted Data Explored
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+  background:
+    image: wide.png
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Given the torrent of information in this day and age, the mission at WIDE is to disseminate information to trainees and established physicians by highlighting relevant data that underpin our current standard of care in the diagnosis and treatment of patients with thoracic malignancies. We illuminate lessons  learned from the past and direct attention to the excitement surrounding future endeavors.
